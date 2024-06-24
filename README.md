@@ -9,16 +9,25 @@ The goal of this project is to develop a predictive model to estimate home price
 
 
 Tools and Technologies
+
 Programming Languages: Python
+
 Libraries: Pandas, NumPy, Scikit-learn, json, Matplotlib, Seaborn
+
 Data Sources: Public real estate databases, government datasets, web scraping for real-time data
+
 Development Environment: Jupyter Notebooks, Integrated Development Environments (IDEs)
+
 Deployment: Flask/Django for web application, Python flask server and Postman API
 
 
 
 Expected Outcomes
+
 A highly accurate predictive model for home prices in City .
+
 An interactive tool for stakeholders to easily estimate property values.
+
 In-depth understanding of the factors influencing home prices in City .
+
 Data-driven insights and recommendations for real estate investment and urban planning.
